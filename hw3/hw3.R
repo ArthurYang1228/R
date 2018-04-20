@@ -1,0 +1,5 @@
+help(lm)
+library(tidyverse)
+data = read.csv(file = "C:\Users\sunlite\Desktop\106¤U½Òµ{\R\hw3\dataset_Facebook.csv")
+summary(data)
+lm()
